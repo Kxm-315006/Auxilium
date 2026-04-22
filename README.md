@@ -61,3 +61,6 @@ auxilium/
 - Advanced AI models for more accurate threat prediction.
 - Mobile application for field responders.
 - Multi-building orchestration support.
+## Username and Passwords
+ username - admin1 password - admin1
+ username2 - staff1 password - staff1
